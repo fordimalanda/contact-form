@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS `contact`;
+
+CREATE DATABASE IF NOT EXISTS `contact`;
+
+USE `contact`;
