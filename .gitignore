@@ -1,0 +1,38 @@
+# 🔧 Configurations d'éditeurs
+.vscode/
+.idea/
+*.code-workspace
+
+# 💻 Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 📦 Dépendances (si tu ajoutes composer plus tard)
+vendor/
+
+# 🔒 Fichiers sensibles
+.env
+*.env
+config.php
+
+# 🗃️ Logs et fichiers temporaires
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# 🚀 Déploiement
+node_modules/
+dist/
+build/
+
+# 🐘 Caches PHP
+*.cache
+*.php~ 
+.phpunit.result.cache
+
+# 📁 Dossiers inutiles pour Git
+__MACOSX/
+*.zip
