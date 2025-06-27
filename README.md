@@ -25,5 +25,21 @@ Ce projet est une petite application PHP conçue pour illustrer l'utilisation de
    ```bash
    git clone https://github.com/fordimalanda/contact-form.git
    cd contact-form
+   ```
+
+---
+
+## 🎨 Aperçu de l’application
+
+### 📄 Formulaire de contact
+![Formulaire](images/c1.png)
+
+### ✅ Message envoyé
+![Succès](images/c2.png)
+
+### 📬 Liste des messages
+![Messages](images/c3.png)
+![Messages](images/c4.png)
+
 
 
